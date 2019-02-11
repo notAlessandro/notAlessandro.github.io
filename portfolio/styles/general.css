@@ -1,3 +1,9 @@
+/*
+ STYLESHEET PRINCIPALE:
+	*NAV CON TUTTO QUELLO CHE L'APPARTIENE;
+	*L'INTERA PAGINA INDEX.HTML;
+*/
+
 body
 {
 	height: 100vh;
@@ -67,37 +73,3 @@ body
     color: white;	
 }
 
-/*
-.flex-container
-{
-	height: 40%;
-	width: 60%;
-
-	position: absolute;
-	display: flex;
-	top: 30%;
-	left: 20%;
-
-	border: 1px solid black;
-}
-
-#social, #portfolio, #aboutme 
-{
-	flex-basis: 20%;
- 	flex-grow: 1;
-	background-color: #A5FFD6;
-}
-
-#social, #portfolio
-{
-	border-style: none;
-	border-right: 1px solid black;
-}
-
-.curtain
-{
-	height: 100%;
-	width: 100%;
-	background-color: #1D1A1B;
-	background: #84DCC6;
-}*/
